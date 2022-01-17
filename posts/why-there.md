@@ -20,14 +20,16 @@
 
 > :Title shadow=0 0 8px black, color=white
 >
-> Sample Blog Post
+> چرا اینجا؟
 
 > :Author src=github
-
 <br>
 
-So this is the content of this sample blog post. For a new blogpost, just copy the contents of \
-`posts/sample-blog-post.md` and get started quickly!
+<div dir='rtl'>
+
+اولین پست رو با این شروع می‌کنیم که چرا سراغ [**CODEDOC**](https://codedoc.cc) اومدیم.
+
+</div>
 
 ---
 
