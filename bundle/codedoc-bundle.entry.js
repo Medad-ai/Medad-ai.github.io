@@ -16,6 +16,7 @@ import { postNavSearch } from '/home/runner/work/Medad-ai.github.io/Medad-ai.git
 import { copyLineLinks } from '/home/runner/work/Medad-ai.github.io/Medad-ai.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from '/home/runner/work/Medad-ai.github.io/Medad-ai.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
 import { CollapseControl } from '/home/runner/work/Medad-ai.github.io/Medad-ai.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
+import { GithubSearch } from '/home/runner/work/Medad-ai.github.io/Medad-ai.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/home/runner/work/Medad-ai.github.io/Medad-ai.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/runner/work/Medad-ai.github.io/Medad-ai.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/Medad-ai.github.io/Medad-ai.github.io/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
@@ -25,6 +26,7 @@ import { ToCPrevNext } from '/home/runner/work/Medad-ai.github.io/Medad-ai.githu
 
 const components = {
   '0gj/iMRrQPM2TJIIudLH8Q==': CollapseControl,
+  'Uon/tgepNFPU42VaeQCFDQ==': GithubSearch,
   '46r3mMs7hbURD1vyCgS5YA==': ToCToggle,
   'fRvxtjMRUTWpG8Ttg2jMfA==': DarkModeSwitch,
   '12OBEq7TcGk3+1SwCj9TSw==': ConfigTransport,
