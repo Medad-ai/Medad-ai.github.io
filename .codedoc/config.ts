@@ -22,7 +22,7 @@ export const config = /*#__PURE__*/configuration({
     title: {
       base: 'بلاگ'         // --> change this to change your blog's title
     },
-    favicon: '/favicon.ico'
+    favicon: 'https://medad-ai.ir/favicon.svg'
   },
   plugins: [
     codingBlog({

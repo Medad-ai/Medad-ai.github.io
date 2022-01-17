@@ -7,21 +7,16 @@
 > >
 > > ![banner](/img/medad-banner.svg)
 
-> :Title
+> :Title lead=بلاگ , shadow=0 2px 6px black, color=white
 >
-> پردازش هوشمند مداد
+> [پردازش هوشمند مداد](https://medad-ai.ir)
 
-<div dir='rtl'>
-
+<!-- > :Quote  -->
 اندوخته‌هایمان را اینجا با شما به اشتراک میگذاریم.
-
-[سایت مداد](https://medad-ai.ir)
-
-<div>
 
 ---
 
-# آخرین پست‌ها:
+# آخرین پست‌ها
 
 > :ArticleCard src=/why-there, style=box
 
