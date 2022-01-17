@@ -23,6 +23,11 @@
 > چرا اینجا؟
 
 > :Author src=github
+
+> :Author name=Jackie Chan,                                                           <!--> name of the author -->
+>         date=Today,                                                                 <!--> last publish date (of this article) -->
+>         avatar=https://www.sueddeutsche.de/image/sz.1.1643818/704x396?v=1522204548, <!--> avatar URL -->
+>         url=https://en.wikipedia.org/wiki/Jackie_Chan                               <!--> author profile URL -->
 <br>
 
 <!-- > :Quote  -->
@@ -38,8 +43,26 @@
 
 ### چجوری کار باهاش رو شروع کنم؟
 
-> :Space
+#### گام اول: بالا آوردن بلاگ با github pages
+برای اینکه راحت‌تر و سریعتر کار رو شروع کنید، به ریپوی زیر برید و روی  `Use this template` کلیک کنید
+[`coding.blog boilerplate`](https://github.com/CONNECT-platform/coding-blog-boilerplate)
+حالا باید یه سری تغییرات روی فایل  `config.ts` بدید:
+- `dest.namespace` رو آپدیت کنید به اسم ریپویی که ساختید.
+- `page.title.base` رو به هر اسمی که میخواید تغییر بدید
+- ‍`misc.github` رو به مشخصات اکانت خودتون تغییر بدید
 
+حالا اگه روی برنچ مستر پوش کنید، میتونید بعد تموم شدن Action ها،
+برید توی تنظیمات ریپو، قسمت pages
+حالا اینجا برنچی که سرو میشه رو به gh-pagesتغییر بدید. save رو بزنید و باز صبر کنید که action تموم بشه(خیلی طول نمیکشه معمولا)
+حالا اگه به ادرسی که توی همون صفحه pages نوشته شده برید، بلاگتون رو حاضر و آماده میبینید. =))
+برای خوندن بیشتر درباره github pages اینجا رو میتونید بخونید.
+برای سر درآوردن از github action همه میتونید این لینکو بخونید.
+
+#### گام دوم: آشنایی بیشتر با امکاناتcodedoc
+
+#### گام سوم: آشنایی با تنظیمات coding.blog و conding-blog-plugin
+
+#### گام آخر: شخصی‌سازی بلاگ و نوشتن پست
 
 ---
 
