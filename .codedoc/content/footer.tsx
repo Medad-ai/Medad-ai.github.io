@@ -61,5 +61,9 @@ export function Footer(this: ThemedComponentThis, config: CodedocConfig, rendere
       <img src="/img/social/linkedin-light.svg" class="light" />
       <img src="/img/social/linkedin-dark.svg" class="dark" />
     </a>
+    <a href="https://www.medad-ai.ir" target="_blank" class={classes.imgLink}>
+      <img src="/img/social/medad-bottom-logo-light.svg" class="light" />
+      <img src="/img/social/medad-bottom-logo-dark.svg" class="dark" />
+    </a>
   </_Footer>;
 }
