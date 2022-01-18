@@ -1,11 +1,11 @@
 > :DarkLight
 > > :InLight
 > >
-> > ![banner](/img/medad-banner.svg)
+> > ![banner](/img/medad-banner-light.svg)
 >
 > > :InDark
 > >
-> > ![banner](/img/medad-banner.svg)
+> > ![banner](/img/medad-banner-dark.svg)
 
 > :Title lead=بلاگ , shadow=0 2px 6px black, color=white
 >
