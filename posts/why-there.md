@@ -22,12 +22,14 @@
 >
 > چرا اینجا؟
 
-> :Author src=github
+> :Author name=قمصریشون,                                                           
+>         avatar=https://avatars.githubusercontent.com/u/35670332?v=4,
+>         url=https://github.com/MSadeghzadehG
 
-> :Author name=Jackie Chan,                                                           <!--> name of the author -->
->         date=Today,                                                                 <!--> last publish date (of this article) -->
->         avatar=https://www.sueddeutsche.de/image/sz.1.1643818/704x396?v=1522204548, <!--> avatar URL -->
->         url=https://en.wikipedia.org/wiki/Jackie_Chan                               <!--> author profile URL -->
+> :Author name=امیر دلها,                                                              
+>         avatar=https://www.sueddeutsche.de/image/sz.1.1643818/704x396?v=1522204548, 
+>         url=https://en.wikipedia.org/wiki/Jackie_Chan                               
+
 <br>
 
 <!-- > :Quote  -->
