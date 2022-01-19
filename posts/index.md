@@ -9,7 +9,7 @@
 
 > :Title lead=بلاگ , shadow=0 2px 6px black, color=white
 >
-> [پردازش هوشمند مداد](https://medad-ai.ir)
+<!-- > [پردازش هوشمند مداد](https://medad-ai.ir) -->
 
 <!-- > :Quote  -->
 اندوخته‌هایمان را اینجا با شما به اشتراک میگذاریم.
