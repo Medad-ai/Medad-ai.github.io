@@ -7,7 +7,7 @@
 > >
 > > ![banner](/img/medad-banner-dark.svg)
 
-> :Title shadow=0 2px 6px black, color=white, margin-botton=0
+> :Title shadow=0 2px 6px black, color=white
 >
 > بلاگ
 
