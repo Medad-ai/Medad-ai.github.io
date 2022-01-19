@@ -7,7 +7,7 @@
 > >
 > > ![banner](/img/medad-banner-dark.svg)
 
-> :Title lead=بلاگ , shadow=0 2px 6px black, color=white
+> :Title lead=بلاگ , shadow=0 2px 6px black, color=white, margin-botton=0
 <!-- > -->
 <!-- > [پردازش هوشمند مداد](https://medad-ai.ir) -->
 
