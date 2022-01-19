@@ -7,9 +7,9 @@
 > >
 > > ![banner](/img/medad-banner-dark.svg)
 
-> :Title lead=بلاگ , shadow=0 2px 6px black, color=white, margin-botton=0
-<!-- > -->
-<!-- > [پردازش هوشمند مداد](https://medad-ai.ir) -->
+> :Title shadow=0 2px 6px black, color=white, margin-botton=0
+>
+> بلاگ
 
 <!-- > :Quote  -->
 اندوخته‌هایمان را اینجا با شما به اشتراک میگذاریم.
