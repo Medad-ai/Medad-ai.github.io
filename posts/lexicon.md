@@ -67,7 +67,7 @@
 </table>
 
 ### مشابهات
-دوستانی دیگر، تلاش‌هایی مشابه و موازی ما داشته اند که در ادامه به آنها اشاره شده:
+دوستانی دیگر، تلاش‌هایی مشابه و موازی ما داشت‌اند که در ادامه به آنها اشاره شده:
 
 - [English-Persian Computer Science Technical Dictionary](https://github.com/hkhojasteh/EN-FA-CS-Dictionary)
 
