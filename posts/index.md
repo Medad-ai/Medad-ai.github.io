@@ -20,6 +20,8 @@
 
 > :ArticleCard src=/why-there, style=box
 
+> :ArticleCard src=/lexicon, style=box
+
 <!-- > :ArticleCard src=/sample-blog-post, -->
 
 ---
