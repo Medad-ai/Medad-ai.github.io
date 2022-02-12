@@ -68,6 +68,10 @@
       <td>پرسمان</td>
     </tr>
     <tr>
+      <td>business plan</td>
+      <td>نقشۀ کسب و کار؟</td>
+    </tr>
+    <tr>
       <td>module</td>
       <td>؟</td>
     </tr>
@@ -76,14 +80,18 @@
       <td>؟</td>
     </tr>
     <tr>
-      <td>business plan</td>
-      <td>نقشۀ کسب و کار؟</td>
+      <td>front-end</td>
+      <td>؟</td>
+    </tr>
+    <tr>
+      <td>back-end</td>
+      <td>؟</td>
     </tr>
   </tbody>
 </table>
 
 ### مشابهات
-دوستانی دیگر، تلاش‌هایی مشابه و موازی ما داشت‌اند که در ادامه به آنها اشاره شده:
+دوستانی دیگر، تلاش‌هایی مشابه و موازی ما داشته‌اند که در ادامه آمده:
 
 - [English-Persian Computer Science Technical Dictionary](https://github.com/hkhojasteh/EN-FA-CS-Dictionary)
 
