@@ -56,6 +56,14 @@
       <td>پیشخان</td>
     </tr>
     <tr>
+      <td>ngram</td>
+      <td>چندنوشت</td>
+    </tr>
+    <tr>
+      <td>corpus</td>
+      <td>پیکره</td>
+    </tr>
+    <tr>
       <td>module</td>
       <td>؟</td>
     </tr>
