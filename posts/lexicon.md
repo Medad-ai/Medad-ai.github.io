@@ -8,12 +8,12 @@
 >       target=mobile,
 >       leak=96px
 
-> :Hero src=https://images.unsplash.com/photo-1453748866136-b1dd97284f49?w=1900&h=600&fit=crop,
+> :Hero src=https://images.unsplash.com/photo-1453224424525-aeb893f2f1ca?w=1900&h=600&fit=crop,
 >       mode=dark,
 >       target=desktop,
 >       leak=156px
 
-> :Hero src=https://images.unsplash.com/photo-1453748866136-b1dd97284f49?w=1200&h=600&fit=crop,
+> :Hero src=https://images.unsplash.com/photo-1453224424525-aeb893f2f1ca?w=1200&h=600&fit=crop,
 >       mode=dark,
 >       target=mobile,
 >       leak=96px
@@ -55,6 +55,14 @@
       <td>dashboard</td>
       <td>پیشخان</td>
     </tr>
+    <tr>
+      <td>module</td>
+      <td>؟</td>
+    </tr>
+    <tr>
+      <td>business plan</td>
+      <td>نقشۀ کسب و کار؟</td>
+    </tr>
   </tbody>
 </table>
 
@@ -63,7 +71,7 @@
 > :DarkLight
 > > :InDark
 > >
-> > _تصویر بالای صفحه از [Aaron Burden](https://unsplash.com/@aaronburden) در [Unsplash](https://unsplash.com)_
+> > _تصویر بالای صفحه از [Tamara Menzi](https://unsplash.com/@itstamaramenzi) در [Unsplash](https://unsplash.com)_
 >
 > > :InLight
 > >
